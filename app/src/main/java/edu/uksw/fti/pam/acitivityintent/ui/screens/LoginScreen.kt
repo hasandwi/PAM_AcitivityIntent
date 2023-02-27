@@ -52,7 +52,7 @@ fun LoginForm() {
         verticalArrangement = Arrangement.spacedBy(8.dp)
     ) {
         Text(
-            text = stringResource(R.string.btn_title_signup),
+            text = stringResource(R.string.btn_title_login),
             fontWeight = FontWeight.Bold,
             fontSize = 25.sp,
             modifier = Modifier
