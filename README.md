@@ -23,4 +23,18 @@ Kekurangan dari Aplikasi ini
 - Sign Up (masih ada bug pada tombol Sign Up, tetapi tidak mempengaruhi outputnya) (dalam tahap penyempurnaan)
 - Aplikasi ini masih belum menggunakan Database yang terintegrasi (masih menggunakan database lokal)
 
-Credits by : Hasan Dwi Santoso
+Screenshoot :
+- Login Screen
+![image.png]( {https://drive.google.com/uc?export=view&id=1_EHoVhOYHf-84YWPgqvBSDR4uijOIl7A} )
+
+- Sign Up Screen
+![image.png]( {https://drive.google.com/uc?export=view&id=1Zs-Tn7LL8DfgyQ-oAwb3GD_6iWqCJiKZ} )
+
+- Homepage
+![image.png]( {https://drive.google.com/uc?export=view&id=1Zz25R15RG_mbovo4aH6PpqwghwPI_AOP} )
+
+- Search Page
+![image.png]( {https://drive.google.com/uc?export=view&id=1ZuVa9PTZ1WaD3MmiULVZYc2y1Y-lI4sA} )
+
+- Profile Page
+![image.png]( {https://drive.google.com/uc?export=view&id=1Zo2r0pi69Ha6FuB_fSv_NY1gM5-kt4M7} )
