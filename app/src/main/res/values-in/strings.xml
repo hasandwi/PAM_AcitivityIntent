@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Disney+</string>
+    <string name="label_username">Nama pengguna</string>
+    <string name="label_password">Kata sandi</string>
+    <string name="btn_title_login">Masuk</string>
+    <string name="btn_title_signup">Daftar</string>
+    <string name="label_first_name">Nama Depan</string>
+    <string name="label_last_name">Nama Belakang</string>
+    <string name="label_confirm_password">Konfirmasi Sandi</string>
+    <string name="label_search">Cari</string>
+</resources>
